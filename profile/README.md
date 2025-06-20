@@ -1,4 +1,4 @@
-# 📚 Temario de Programación Orientada a Objetos (POO) 🚀
+# 📚 Programación Orientada a Objetos (POO): Contenidos 🚀
 
 ---
 
